@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuanLiSinhVien_Lop_SQLite</string>
+
+    <string-array name="spiner_lop">
+        <item>Tất cả</item>
+        <item>20T1</item>
+        <item>20T2</item>
+        <item>20CNS1</item>
+        <item>20DH3</item>
+    </string-array>
+</resources>
